@@ -9,10 +9,10 @@ for you. You must:
 	variables.
 
 	3.Use the + operator to perform the following operations:
-		1. Print the sum of i plus your int var on a new line
-		2. Print the sum of d plus your double var on a new line
-		3. Concatenate 2 witht the string you read as input and print
-		the result on a new line
+		1. Print the sum of i plus your int var on a new line.
+		2. Print the sum of d plus your double var on a new line.
+		3. Concatenate s with the string you read as input and print
+		the result on a new line.
 
 Sample Input:
 	12
